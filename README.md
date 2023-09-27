@@ -1,7 +1,7 @@
 # ReadMe-Website
 
 👋 Welcome to my GitHub Portfolio!
-![I am GitHub Readme Generator's creator](https://twitter.com/Prince_gabz77/header_photo)
+
 
 📚 About Me
 -----------------------
