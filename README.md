@@ -19,7 +19,7 @@ at Varsity College, where I'm gaining a strong foundation in computer science an
 - Git and GitHub
 - SQL and databases
 - Azure
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PrinceGabz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?PrinceGabz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PrinceGabz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
