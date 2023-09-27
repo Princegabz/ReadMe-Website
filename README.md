@@ -39,4 +39,4 @@ at Varsity College, where I'm gaining a strong foundation in computer science an
 
 🚀 Thanks for visiting, and I look forward to connecting with you!
 
-[LinkedIn Icon] [LinkedIn Profile Link] | [Email Icon] [Your Email Address]
+[LinkedIn Icon] [https://www.linkedin.com/in/prince-gabz-78373a216/?originalSubdomain=za)https://www.linkedin.com/in/prince-gabz-78373a216/?originalSubdomain=za] | [Email Icon] [Princegabz88@gmail.com]
